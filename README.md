@@ -9,4 +9,4 @@ bash bin2shell.sh additionNum
 ```
 ##THANK YOU
 
-[TOUHID SHAIKH](htttp://www.touhidshaikh.com)
+[TOUHID SHAIKH](http://www.touhidshaikh.com)
